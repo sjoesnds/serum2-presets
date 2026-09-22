@@ -1,0 +1,39 @@
+name: Generate Aether Serum 2 Pack
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/generate_aether40.py"
+      - ".github/workflows/generate-aether.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Generate Aether 40
+        run: python scripts/generate_aether40.py
+      - name: Commit generated Aether pack
+        run: |
+          cp aether40_build/manifest.json manifest_aether40.json
+          rm -rf aether40_build
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "Presets/Neon Forms 40 AETHER IMPOSSIBLE" "Neon_Forms_40_AETHER_IMPOSSIBLE_Serum2.zip" "manifest_aether40.json"
+          if git diff --cached --quiet; then
+            echo "No generated changes."
+            exit 0
+          fi
+          git commit -m "Generate Aether 40 Serum 2 presets"
+          git push
