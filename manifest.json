@@ -1,0 +1,510 @@
+{
+  "collection": "Neon Forms 100",
+  "count": 100,
+  "format": "Serum 2 .SerumPreset",
+  "target_version": "2.1.4",
+  "archive": "Neon_Forms_100_Serum2.zip",
+  "notes": "100 original polished patches with varied wavetable movement, filters, envelopes, modulation and restrained effects.",
+  "presets": [
+    {
+      "name": "Aether Bloom 001",
+      "path": "Presets/Neon Forms 100/001 - Aether Bloom 001.SerumPreset",
+      "bytes": 1908
+    },
+    {
+      "name": "Afterglow Core 002",
+      "path": "Presets/Neon Forms 100/002 - Afterglow Core 002.SerumPreset",
+      "bytes": 1980
+    },
+    {
+      "name": "Arc Edge 003",
+      "path": "Presets/Neon Forms 100/003 - Arc Edge 003.SerumPreset",
+      "bytes": 1898
+    },
+    {
+      "name": "Bloom Motion 004",
+      "path": "Presets/Neon Forms 100/004 - Bloom Motion 004.SerumPreset",
+      "bytes": 1910
+    },
+    {
+      "name": "Brume Veil 005",
+      "path": "Presets/Neon Forms 100/005 - Brume Veil 005.SerumPreset",
+      "bytes": 1980
+    },
+    {
+      "name": "Carbon Frame 006",
+      "path": "Presets/Neon Forms 100/006 - Carbon Frame 006.SerumPreset",
+      "bytes": 1896
+    },
+    {
+      "name": "Cipher Thread 007",
+      "path": "Presets/Neon Forms 100/007 - Cipher Thread 007.SerumPreset",
+      "bytes": 1906
+    },
+    {
+      "name": "Contour Form 008",
+      "path": "Presets/Neon Forms 100/008 - Contour Form 008.SerumPreset",
+      "bytes": 1984
+    },
+    {
+      "name": "Current Trace 009",
+      "path": "Presets/Neon Forms 100/009 - Current Trace 009.SerumPreset",
+      "bytes": 1896
+    },
+    {
+      "name": "Dawn Shine 010",
+      "path": "Presets/Neon Forms 100/010 - Dawn Shine 010.SerumPreset",
+      "bytes": 1896
+    },
+    {
+      "name": "Drift Fold 011",
+      "path": "Presets/Neon Forms 100/011 - Drift Fold 011.SerumPreset",
+      "bytes": 1979
+    },
+    {
+      "name": "Echo Shape 012",
+      "path": "Presets/Neon Forms 100/012 - Echo Shape 012.SerumPreset",
+      "bytes": 1904
+    },
+    {
+      "name": "Ember Drift 013",
+      "path": "Presets/Neon Forms 100/013 - Ember Drift 013.SerumPreset",
+      "bytes": 1900
+    },
+    {
+      "name": "Flux Skin 014",
+      "path": "Presets/Neon Forms 100/014 - Flux Skin 014.SerumPreset",
+      "bytes": 1978
+    },
+    {
+      "name": "Glass Pulse 015",
+      "path": "Presets/Neon Forms 100/015 - Glass Pulse 015.SerumPreset",
+      "bytes": 1909
+    },
+    {
+      "name": "Halo Air 016",
+      "path": "Presets/Neon Forms 100/016 - Halo Air 016.SerumPreset",
+      "bytes": 1908
+    },
+    {
+      "name": "Haze Wire 017",
+      "path": "Presets/Neon Forms 100/017 - Haze Wire 017.SerumPreset",
+      "bytes": 1983
+    },
+    {
+      "name": "Ion Tone 018",
+      "path": "Presets/Neon Forms 100/018 - Ion Tone 018.SerumPreset",
+      "bytes": 1897
+    },
+    {
+      "name": "Lucid Field 019",
+      "path": "Presets/Neon Forms 100/019 - Lucid Field 019.SerumPreset",
+      "bytes": 1896
+    },
+    {
+      "name": "Melt Phase 020",
+      "path": "Presets/Neon Forms 100/020 - Melt Phase 020.SerumPreset",
+      "bytes": 1983
+    },
+    {
+      "name": "Mirror Bloom 021",
+      "path": "Presets/Neon Forms 100/021 - Mirror Bloom 021.SerumPreset",
+      "bytes": 1899
+    },
+    {
+      "name": "Nova Core 022",
+      "path": "Presets/Neon Forms 100/022 - Nova Core 022.SerumPreset",
+      "bytes": 1886
+    },
+    {
+      "name": "Obsidian Edge 023",
+      "path": "Presets/Neon Forms 100/023 - Obsidian Edge 023.SerumPreset",
+      "bytes": 1987
+    },
+    {
+      "name": "Orbit Motion 024",
+      "path": "Presets/Neon Forms 100/024 - Orbit Motion 024.SerumPreset",
+      "bytes": 1906
+    },
+    {
+      "name": "Pulse Veil 025",
+      "path": "Presets/Neon Forms 100/025 - Pulse Veil 025.SerumPreset",
+      "bytes": 1907
+    },
+    {
+      "name": "Quartz Frame 026",
+      "path": "Presets/Neon Forms 100/026 - Quartz Frame 026.SerumPreset",
+      "bytes": 1989
+    },
+    {
+      "name": "Ripple Thread 027",
+      "path": "Presets/Neon Forms 100/027 - Ripple Thread 027.SerumPreset",
+      "bytes": 1900
+    },
+    {
+      "name": "Satin Form 028",
+      "path": "Presets/Neon Forms 100/028 - Satin Form 028.SerumPreset",
+      "bytes": 1910
+    },
+    {
+      "name": "Signal Trace 029",
+      "path": "Presets/Neon Forms 100/029 - Signal Trace 029.SerumPreset",
+      "bytes": 1983
+    },
+    {
+      "name": "Silk Shine 030",
+      "path": "Presets/Neon Forms 100/030 - Silk Shine 030.SerumPreset",
+      "bytes": 1894
+    },
+    {
+      "name": "Static Fold 031",
+      "path": "Presets/Neon Forms 100/031 - Static Fold 031.SerumPreset",
+      "bytes": 1888
+    },
+    {
+      "name": "Vapor Shape 032",
+      "path": "Presets/Neon Forms 100/032 - Vapor Shape 032.SerumPreset",
+      "bytes": 1982
+    },
+    {
+      "name": "Velvet Drift 033",
+      "path": "Presets/Neon Forms 100/033 - Velvet Drift 033.SerumPreset",
+      "bytes": 1888
+    },
+    {
+      "name": "Vessel Skin 034",
+      "path": "Presets/Neon Forms 100/034 - Vessel Skin 034.SerumPreset",
+      "bytes": 1898
+    },
+    {
+      "name": "Wisp Pulse 035",
+      "path": "Presets/Neon Forms 100/035 - Wisp Pulse 035.SerumPreset",
+      "bytes": 1986
+    },
+    {
+      "name": "Chrome Air 036",
+      "path": "Presets/Neon Forms 100/036 - Chrome Air 036.SerumPreset",
+      "bytes": 1907
+    },
+    {
+      "name": "Prism Wire 037",
+      "path": "Presets/Neon Forms 100/037 - Prism Wire 037.SerumPreset",
+      "bytes": 1907
+    },
+    {
+      "name": "Lumen Tone 038",
+      "path": "Presets/Neon Forms 100/038 - Lumen Tone 038.SerumPreset",
+      "bytes": 1971
+    },
+    {
+      "name": "Sway Field 039",
+      "path": "Presets/Neon Forms 100/039 - Sway Field 039.SerumPreset",
+      "bytes": 1903
+    },
+    {
+      "name": "Shiver Phase 040",
+      "path": "Presets/Neon Forms 100/040 - Shiver Phase 040.SerumPreset",
+      "bytes": 1903
+    },
+    {
+      "name": "Nightglass Bloom 041",
+      "path": "Presets/Neon Forms 100/041 - Nightglass Bloom 041.SerumPreset",
+      "bytes": 1983
+    },
+    {
+      "name": "Softwire Core 042",
+      "path": "Presets/Neon Forms 100/042 - Softwire Core 042.SerumPreset",
+      "bytes": 1908
+    },
+    {
+      "name": "Polaris Edge 043",
+      "path": "Presets/Neon Forms 100/043 - Polaris Edge 043.SerumPreset",
+      "bytes": 1884
+    },
+    {
+      "name": "Tidal Motion 044",
+      "path": "Presets/Neon Forms 100/044 - Tidal Motion 044.SerumPreset",
+      "bytes": 1986
+    },
+    {
+      "name": "Fever Veil 045",
+      "path": "Presets/Neon Forms 100/045 - Fever Veil 045.SerumPreset",
+      "bytes": 1895
+    },
+    {
+      "name": "Cinder Frame 046",
+      "path": "Presets/Neon Forms 100/046 - Cinder Frame 046.SerumPreset",
+      "bytes": 1908
+    },
+    {
+      "name": "Aether Thread 047",
+      "path": "Presets/Neon Forms 100/047 - Aether Thread 047.SerumPreset",
+      "bytes": 1996
+    },
+    {
+      "name": "Afterglow Form 048",
+      "path": "Presets/Neon Forms 100/048 - Afterglow Form 048.SerumPreset",
+      "bytes": 1903
+    },
+    {
+      "name": "Arc Trace 049",
+      "path": "Presets/Neon Forms 100/049 - Arc Trace 049.SerumPreset",
+      "bytes": 1900
+    },
+    {
+      "name": "Bloom Shine 050",
+      "path": "Presets/Neon Forms 100/050 - Bloom Shine 050.SerumPreset",
+      "bytes": 1986
+    },
+    {
+      "name": "Brume Fold 051",
+      "path": "Presets/Neon Forms 100/051 - Brume Fold 051.SerumPreset",
+      "bytes": 1902
+    },
+    {
+      "name": "Carbon Shape 052",
+      "path": "Presets/Neon Forms 100/052 - Carbon Shape 052.SerumPreset",
+      "bytes": 1902
+    },
+    {
+      "name": "Cipher Drift 053",
+      "path": "Presets/Neon Forms 100/053 - Cipher Drift 053.SerumPreset",
+      "bytes": 1989
+    },
+    {
+      "name": "Contour Skin 054",
+      "path": "Presets/Neon Forms 100/054 - Contour Skin 054.SerumPreset",
+      "bytes": 1898
+    },
+    {
+      "name": "Current Pulse 055",
+      "path": "Presets/Neon Forms 100/055 - Current Pulse 055.SerumPreset",
+      "bytes": 1897
+    },
+    {
+      "name": "Dawn Air 056",
+      "path": "Presets/Neon Forms 100/056 - Dawn Air 056.SerumPreset",
+      "bytes": 1975
+    },
+    {
+      "name": "Drift Wire 057",
+      "path": "Presets/Neon Forms 100/057 - Drift Wire 057.SerumPreset",
+      "bytes": 1888
+    },
+    {
+      "name": "Echo Tone 058",
+      "path": "Presets/Neon Forms 100/058 - Echo Tone 058.SerumPreset",
+      "bytes": 1905
+    },
+    {
+      "name": "Ember Field 059",
+      "path": "Presets/Neon Forms 100/059 - Ember Field 059.SerumPreset",
+      "bytes": 1984
+    },
+    {
+      "name": "Flux Phase 060",
+      "path": "Presets/Neon Forms 100/060 - Flux Phase 060.SerumPreset",
+      "bytes": 1905
+    },
+    {
+      "name": "Glass Bloom 061",
+      "path": "Presets/Neon Forms 100/061 - Glass Bloom 061.SerumPreset",
+      "bytes": 1897
+    },
+    {
+      "name": "Halo Core 062",
+      "path": "Presets/Neon Forms 100/062 - Halo Core 062.SerumPreset",
+      "bytes": 1954
+    },
+    {
+      "name": "Haze Edge 063",
+      "path": "Presets/Neon Forms 100/063 - Haze Edge 063.SerumPreset",
+      "bytes": 1893
+    },
+    {
+      "name": "Ion Motion 064",
+      "path": "Presets/Neon Forms 100/064 - Ion Motion 064.SerumPreset",
+      "bytes": 1905
+    },
+    {
+      "name": "Lucid Veil 065",
+      "path": "Presets/Neon Forms 100/065 - Lucid Veil 065.SerumPreset",
+      "bytes": 1980
+    },
+    {
+      "name": "Melt Frame 066",
+      "path": "Presets/Neon Forms 100/066 - Melt Frame 066.SerumPreset",
+      "bytes": 1905
+    },
+    {
+      "name": "Mirror Thread 067",
+      "path": "Presets/Neon Forms 100/067 - Mirror Thread 067.SerumPreset",
+      "bytes": 1894
+    },
+    {
+      "name": "Nova Form 068",
+      "path": "Presets/Neon Forms 100/068 - Nova Form 068.SerumPreset",
+      "bytes": 1977
+    },
+    {
+      "name": "Obsidian Trace 069",
+      "path": "Presets/Neon Forms 100/069 - Obsidian Trace 069.SerumPreset",
+      "bytes": 1893
+    },
+    {
+      "name": "Orbit Shine 070",
+      "path": "Presets/Neon Forms 100/070 - Orbit Shine 070.SerumPreset",
+      "bytes": 1889
+    },
+    {
+      "name": "Pulse Fold 071",
+      "path": "Presets/Neon Forms 100/071 - Pulse Fold 071.SerumPreset",
+      "bytes": 1979
+    },
+    {
+      "name": "Quartz Shape 072",
+      "path": "Presets/Neon Forms 100/072 - Quartz Shape 072.SerumPreset",
+      "bytes": 1907
+    },
+    {
+      "name": "Ripple Drift 073",
+      "path": "Presets/Neon Forms 100/073 - Ripple Drift 073.SerumPreset",
+      "bytes": 1894
+    },
+    {
+      "name": "Satin Skin 074",
+      "path": "Presets/Neon Forms 100/074 - Satin Skin 074.SerumPreset",
+      "bytes": 1972
+    },
+    {
+      "name": "Signal Pulse 075",
+      "path": "Presets/Neon Forms 100/075 - Signal Pulse 075.SerumPreset",
+      "bytes": 1903
+    },
+    {
+      "name": "Silk Air 076",
+      "path": "Presets/Neon Forms 100/076 - Silk Air 076.SerumPreset",
+      "bytes": 1906
+    },
+    {
+      "name": "Static Wire 077",
+      "path": "Presets/Neon Forms 100/077 - Static Wire 077.SerumPreset",
+      "bytes": 1986
+    },
+    {
+      "name": "Vapor Tone 078",
+      "path": "Presets/Neon Forms 100/078 - Vapor Tone 078.SerumPreset",
+      "bytes": 1897
+    },
+    {
+      "name": "Velvet Field 079",
+      "path": "Presets/Neon Forms 100/079 - Velvet Field 079.SerumPreset",
+      "bytes": 1898
+    },
+    {
+      "name": "Vessel Phase 080",
+      "path": "Presets/Neon Forms 100/080 - Vessel Phase 080.SerumPreset",
+      "bytes": 1983
+    },
+    {
+      "name": "Wisp Bloom 081",
+      "path": "Presets/Neon Forms 100/081 - Wisp Bloom 081.SerumPreset",
+      "bytes": 1885
+    },
+    {
+      "name": "Chrome Core 082",
+      "path": "Presets/Neon Forms 100/082 - Chrome Core 082.SerumPreset",
+      "bytes": 1902
+    },
+    {
+      "name": "Prism Edge 083",
+      "path": "Presets/Neon Forms 100/083 - Prism Edge 083.SerumPreset",
+      "bytes": 1982
+    },
+    {
+      "name": "Lumen Motion 084",
+      "path": "Presets/Neon Forms 100/084 - Lumen Motion 084.SerumPreset",
+      "bytes": 1906
+    },
+    {
+      "name": "Sway Veil 085",
+      "path": "Presets/Neon Forms 100/085 - Sway Veil 085.SerumPreset",
+      "bytes": 1902
+    },
+    {
+      "name": "Shiver Frame 086",
+      "path": "Presets/Neon Forms 100/086 - Shiver Frame 086.SerumPreset",
+      "bytes": 1977
+    },
+    {
+      "name": "Nightglass Thread 087",
+      "path": "Presets/Neon Forms 100/087 - Nightglass Thread 087.SerumPreset",
+      "bytes": 1914
+    },
+    {
+      "name": "Softwire Form 088",
+      "path": "Presets/Neon Forms 100/088 - Softwire Form 088.SerumPreset",
+      "bytes": 1909
+    },
+    {
+      "name": "Polaris Trace 089",
+      "path": "Presets/Neon Forms 100/089 - Polaris Trace 089.SerumPreset",
+      "bytes": 1984
+    },
+    {
+      "name": "Tidal Shine 090",
+      "path": "Presets/Neon Forms 100/090 - Tidal Shine 090.SerumPreset",
+      "bytes": 1899
+    },
+    {
+      "name": "Fever Fold 091",
+      "path": "Presets/Neon Forms 100/091 - Fever Fold 091.SerumPreset",
+      "bytes": 1892
+    },
+    {
+      "name": "Cinder Shape 092",
+      "path": "Presets/Neon Forms 100/092 - Cinder Shape 092.SerumPreset",
+      "bytes": 1986
+    },
+    {
+      "name": "Aether Drift 093",
+      "path": "Presets/Neon Forms 100/093 - Aether Drift 093.SerumPreset",
+      "bytes": 1890
+    },
+    {
+      "name": "Afterglow Skin 094",
+      "path": "Presets/Neon Forms 100/094 - Afterglow Skin 094.SerumPreset",
+      "bytes": 1890
+    },
+    {
+      "name": "Arc Pulse 095",
+      "path": "Presets/Neon Forms 100/095 - Arc Pulse 095.SerumPreset",
+      "bytes": 1981
+    },
+    {
+      "name": "Bloom Air 096",
+      "path": "Presets/Neon Forms 100/096 - Bloom Air 096.SerumPreset",
+      "bytes": 1908
+    },
+    {
+      "name": "Brume Wire 097",
+      "path": "Presets/Neon Forms 100/097 - Brume Wire 097.SerumPreset",
+      "bytes": 1899
+    },
+    {
+      "name": "Carbon Tone 098",
+      "path": "Presets/Neon Forms 100/098 - Carbon Tone 098.SerumPreset",
+      "bytes": 1989
+    },
+    {
+      "name": "Cipher Field 099",
+      "path": "Presets/Neon Forms 100/099 - Cipher Field 099.SerumPreset",
+      "bytes": 1893
+    },
+    {
+      "name": "Contour Phase 100",
+      "path": "Presets/Neon Forms 100/100 - Contour Phase 100.SerumPreset",
+      "bytes": 1896
+    }
+  ]
+}
